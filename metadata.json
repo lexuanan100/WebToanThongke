@@ -1,0 +1,6 @@
+{
+  "name": "StatxAI – Thống Kê Thể Lực & Tập Luyện",
+  "description": "Nền tảng học tập tương tác Toán thống kê trong đánh giá thể lực và hoạt động tập luyện của sinh viên Giáo dục thể chất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
